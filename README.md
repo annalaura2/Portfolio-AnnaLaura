@@ -31,13 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Desenvolvido meu primeiro portfólio, onde exercitei e treinei alguns conceitos aprendidos com as tecnologias utilizadas. 
 
-- [x] é possivel acessar minhas redes através dos links;
-- [x] é possível visualizar meus projetos (realizado deploy) e o código no GitHub;
-- [x] o formulário de e-mail está funcional;
-- [x] implementado seleção de dark e light mode para visualização da página.
-<br>
 
 - Acesse o projeto finalizado, [clicando aqui]().
 
