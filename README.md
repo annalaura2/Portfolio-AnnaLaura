@@ -24,7 +24,7 @@ Este portfólio foi criado para ser um espaço onde posso compartilhar um pouco 
 
 Além disso, ele funciona como um canal para contato profissional, facilitando a comunicação com empresas e outros desenvolvedores interessados no meu trabalho.  
 
-🔗 **Acesse o portfólio online:** [Clique aqui]()  
+🔗 **Acesse o portfólio online:** [Clique aqui](https://portfolio-anna-laura.vercel.app/)  
 
 ## 🚀 Tecnologias Utilizadas  
 
