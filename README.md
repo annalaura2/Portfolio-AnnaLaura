@@ -41,15 +41,16 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias e ferramentas:
 O projeto segue a seguinte organização de arquivos e pastas:  
 
 📁 portfolio
-├── 📁 assets → Imagens, ícones e outros arquivos visuais
-├── 📁 css → Arquivos de estilos (CSS)
-├── 📁 js → Scripts JavaScript
-├── index.html → Página principal
-├── README.md → Documentação do projeto
 
-bash
-Copiar
-Editar
+├── 📁 assets → Imagens, ícones e outros arquivos visuais
+
+├── 📁 css → Arquivos de estilos (CSS)
+
+├── 📁 js → Scripts JavaScript
+
+├── index.html → Página principal
+
+├── README.md → Documentação do projeto
 
 ## 🛠️ Como Executar o Projeto  
 
@@ -58,33 +59,24 @@ Para visualizar o portfólio localmente, siga os passos abaixo:
 1. **Clone este repositório:**  
    ```bash
    git clone https://github.com/seu-usuario/portfolio.git
-Acesse a pasta do projeto:
-bash
-Copiar
-Editar
-cd portfolio
-Abra o arquivo index.html em seu navegador:
+2. **Acesse a pasta do projeto:**
+   ```bash 
+   cd portfolio
+3. **Abra o arquivo index.html em seu navegador:**
 Basta clicar duas vezes no arquivo
 Ou, se preferir, use a extensão Live Server no VS Code
-🎨 Layout
-O design do projeto pode ser visualizado através deste link: Ver no Figma
 
-(É necessário ter uma conta no Figma para acessá-lo.)
 
 📬 Contato
 Se quiser entrar em contato comigo para feedbacks, oportunidades ou parcerias, me encontre por aqui:
 
-📧 E-mail: seuemail@email.com
-💼 LinkedIn: linkedin.com/in/seuperfil
-🐙 GitHub: github.com/seu-usuario
+📧 E-mail: annalauracodes@gmail.com
+
+💼 LinkedIn: https://www.linkedin.com/in/anna-laura-39158821a/
+
+🐙 GitHub: github.com/annalaura2
 
 📜 Licença
 Este projeto está licenciado sob os termos da licença MIT, permitindo seu uso, modificação e compartilhamento.
 
 🚀 Feito com dedicação por Anna Laura 💜
-
-nginx
-Copiar
-Editar
-
-Este é o README completo, com tudo o que discutimos, pronto para ser copiado e colado no s
