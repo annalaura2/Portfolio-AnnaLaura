@@ -67,7 +67,8 @@ Basta clicar duas vezes no arquivo
 Ou, se preferir, use a extensão Live Server no VS Code
 
 
-📬 Contato
+## 📬 Contato
+
 Se quiser entrar em contato comigo para feedbacks, oportunidades ou parcerias, me encontre por aqui:
 
 📧 E-mail: annalauracodes@gmail.com
@@ -76,7 +77,8 @@ Se quiser entrar em contato comigo para feedbacks, oportunidades ou parcerias, m
 
 🐙 GitHub: github.com/annalaura2
 
-📜 Licença
+## 📜 Licença
+
 Este projeto está licenciado sob os termos da licença MIT, permitindo seu uso, modificação e compartilhamento.
 
 🚀 Feito com dedicação por Anna Laura 💜
